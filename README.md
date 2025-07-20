@@ -8,7 +8,7 @@ Here Node JS SMS server
 *  Nodejs
 *  Twilio library
     ```bash
-    npm install twilio
+    npm install twilio dotenv
     ```
     ```bash
     npm install express
